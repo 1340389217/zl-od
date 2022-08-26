@@ -6,7 +6,7 @@
 
 > 如果你想要的资源妙妙屋里没有 可以联系我
 
-> **联系方式：**【[🐧Q群](https://qm.qq.com/cgi-bin/qm/qr?k=HOhnnomt8yfmUu83YpLZJzqj8WerK71e&jump_from=webapi)】【📧邮件 zlmio@foxmail.com】
+> **联系方式：**【[🐧Q群](https://qm.qq.com/cgi-bin/qm/qr?k=HOhnnomt8yfmUu83YpLZJzqj8WerK71e&jump_from=webapi)】【📧邮件 zlmio@qq.com】
 
 ## <font color="#7B90D2">🏷说明</font>
 
