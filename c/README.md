@@ -20,7 +20,7 @@
 <details>
   <summary>【查看详情】</summary>
 
-<iframe id="test" width="100%" height="500px" frameborder="0" <iframe id="test" width="100%" height="500px" frameborder="0" src="https://kdocs.cn/l/ceXpQwQ9ysLw"></iframe>
+<iframe id="test" width="100%" height="500px" frameborder="0" <iframe id="test" width="100%" height="500px" frameborder="0" src="https://iflydocs.com/h/s/sheet/MIRmQzhSHtCGVybv"></iframe>
 
 </details>
 
