@@ -10,18 +10,25 @@
 
 ## <font color="#7B90D2">🏷说明</font>
 
-
-
 - 建议使用[ IDM ](https://www.123pan.com/s/mkLDVv-VACJv)这类多线程下载器下载本站资源
 - 如果文件下载不了可能是 api 调用次数过多被限制了，请过一段时间再下载
 - 如果视频播放不了，可能是编码不支持，请下载观看
 - **如果你想支持本站，可以多多访问多多宣传**
 
-### <font color="#7B90D2">🧷WebDAV 配置</font>
+### <font color="#7B90D2">📅更新日志</font>
 
 <details>
   <summary>【查看详情】</summary>
 
+<iframe id="test" width="100%" height="500px" frameborder="0" <iframe id="test" width="100%" height="500px" frameborder="0" src="https://kdocs.cn/l/ceXpQwQ9ysLw"></iframe>
+
+</details>
+
+
+### <font color="#7B90D2">🧷WebDAV 配置</font>
+
+<details>
+  <summary>【查看详情】</summary>
 
 | 参数 | 值                   |
 | ---- | -------------------- |
@@ -34,6 +41,8 @@
 | 密码 | ziling              |
 
 </details>
+
+
 
 ## <font color="#7B90D2">💲推广</font>
 
