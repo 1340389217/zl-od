@@ -20,7 +20,7 @@
 <details>
   <summary>【查看详情】</summary>
 
-<iframe id="test" width="100%" height="500px" frameborder="0" <iframe id="test" width="100%" height="500px" frameborder="0" src="https://iflydocs.com/h/s/sheet/MIRmQzhSHtCGVybv"></iframe>
+<iframe src="https://iflydocs.com/h/s/sheet/MIRmQzhSHtCGVybv" style="overflow-x:hidden;overflow-y:hidden; border:0xp none #fff; min-height:500px; width:100%;"  frameborder="0" scrolling="no"></iframe>
 
 </details>
 
