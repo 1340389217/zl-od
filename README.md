@@ -38,5 +38,3 @@
 
 + [梓澪の云小店](https://ziling.inveam.net)
 + [机场推荐 Teacat](https://teacat1.com/#/register?code=8Clp7mjO)
-+ [服务器推荐 雨云](https://www.rainyun.com?ref=MjI1NTA=)
-  
