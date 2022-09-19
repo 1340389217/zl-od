@@ -32,9 +32,25 @@
 | 账号 | ziling              |
 | 密码 | ziling              |
 
+### rclone
+
+> 下载核心程序 [Rclone](https://rclone.org/downloads/) 解压，下载图形界面程序 [RcloneBrowser](https://github.com/kapitainsky/RcloneBrowser/releases)  安装。新建一个 `rclone.conf` 文本文件，将下述配置文件复制进去。在图形程序中，点击左上角 `file` → `preferences` ， `rclone location` 选择解压出的 rclone 核心主程序 `rclone.exe` ， `rclone.conf location` 选择新建的 `rclone.conf` 文件。回到图形程序界面点击左下角 `refresh` 刷新出配置，最后就可以浏览文件批量下载了，在顶部第二行 `Jobs` 中查看传输进程。
+
+- **rclone配置文件**
+
+```
+[wp-1]
+type = webdav
+url = https://06tly-my.sharepoint.com/personal/ziling_06tly_onmicrosoft_com/Documents/
+vendor = sharepoint
+user = web@06tly.onmicrosoft.com
+pass = r4Cih6xw9gFAJtq2mN3Vcj0pl8uOvwD9VQQV
+```
+
 </details>
 
 ## <font color="#7B90D2">💲推广</font>
 
 + [梓澪の云小店](https://ziling.inveam.net)
 + [机场推荐 Teacat](https://teacat1.com/#/register?code=8Clp7mjO)
+  
