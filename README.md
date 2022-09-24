@@ -6,7 +6,7 @@
 
 > 如果你想要的资源妙妙屋里没有 可以联系我
 
-> **联系方式：**【[🐧Q群](https://qm.qq.com/cgi-bin/qm/qr?k=HOhnnomt8yfmUu83YpLZJzqj8WerK71e&jump_from=webapi)】【📧邮件 zlmio@qq.com】
+> **联系方式：**【[🐧Q群 422070657](https://qm.qq.com/cgi-bin/qm/qr?k=HOhnnomt8yfmUu83YpLZJzqj8WerK71e&jump_from=webapi)】【📧邮件 zlmio@qq.com】
 
 > **本站域名：[梓澪.xyz](https://xn--i0v44m.xyz)**
 
