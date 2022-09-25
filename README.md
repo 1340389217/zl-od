@@ -60,9 +60,8 @@ pass = r4Cih6xw9gFAJtq2mN3Vcj0pl8uOvwD9VQQV
 
 **安卓挂载**
 
-1. 下载安装 [RCX - Rclone](https://www.123pan.com/s/mkLDVv-sECJv) ，新建一个 `rclone.conf` 文本文件，将上述配置文件复制进去。
-2. 打开RCX---左上角三条杠---Import rclone config---选择刚刚新建的 `rclone.conf` 文件导入
-3. 挂载完成，如果下载慢请挂VPN
+下载我内置好的直接食用即可
+[点我下载 RCX - 梓澪妙妙屋内置版](https://www.123pan.com/s/mkLDVv-DECJv)
 
 </details>
 
@@ -70,3 +69,4 @@ pass = r4Cih6xw9gFAJtq2mN3Vcj0pl8uOvwD9VQQV
 
 + [梓澪の云小店](https://ziling.inveam.net)
 + [机场推荐 Teacat](https://teacat1.com/#/register?code=8Clp7mjO)
+  
