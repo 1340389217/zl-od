@@ -62,7 +62,7 @@ pass = r4Cih6xw9gFAJtq2mN3Vcj0pl8uOvwD9VQQV
 
 下载我内置好的直接食用即可
 
-[点我下载 RCX - 梓澪妙妙屋内置版](https://www.123pan.com/s/mkLDVv-DECJv)
+[点我下载 RCX - 梓澪妙妙屋内置版](https://www.123pan.com/s/mkLDVv-rECJv)
 
 </details>
 
