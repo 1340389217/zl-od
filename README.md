@@ -78,7 +78,3 @@ pass = r4Cih6xw9gFAJtq2mN3Vcj0pl8uOvwD9VQQV
 
 </details>
 
-## <font color="#7B90D2">💲推广</font>
-
-+ [梓澪の云小店](https://ziling.inveam.net)
-+ [机场推荐 Teacat](https://teacat1.com/#/register?code=8Clp7mjO)
