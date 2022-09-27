@@ -6,16 +6,28 @@
 
 > 想要什么资源或者上传资源可以联系我
 
-> **联系方式：**【[🐧Q群 422070657](https://qm.qq.com/cgi-bin/qm/qr?k=HOhnnomt8yfmUu83YpLZJzqj8WerK71e&jump_from=webapi)】【📧邮件 zlmio@qq.com】
+> **联系方式：**【[✈️Tg群](https://t.me/HokagoTeaTime0)】【📧邮件 zlmio@qq.com】
 
-> **本站域名：[梓澪.xyz](https://xn--i0v44m.xyz)**
+> **永久域名：[梓澪.xyz](https://xn--i0v44m.xyz)**
 
 ## <font color="#7B90D2">🏷说明</font>
 
 - **如果你想支持本站，可以多多访问多多宣传**
 - 建议使用[ IDM ](https://www.123pan.com/s/mkLDVv-VACJv)这类多线程下载器下载本站资源
-- 如果文件下载不了，可能是当前下载人数过多，请过一段时间再下载或者使用rclone挂载下载
-- 如果视频播放不了，可能是编码不支持，请下载或使用播放器挂载观看
+
+<details>
+<summary>【常见问题】</summary>
+
+- **1. 文件下载不了？**
+  - 网站被频繁访问会触发 OneDrive 的 API 调用限制，若报错 `activityLimitReached` 、`The request has been throttled`之类请刷新或稍后再试。
+- **2. 视频播放不了？有声无画面? 有画面无声音?**
+  - 一般浏览器不支持h.265（hevc）等编码视频，ac3等编码音频，Safari不支持的更多，**建议使用软件播放**。
+- **3. 下载速度慢？**
+  - 若下载太慢请使用高速的全局代理或多线程下载器。
+
+
+
+</details>
 
 ### <font color="#7B90D2">🧷WebDAV 配置</font>
 
@@ -70,4 +82,3 @@ pass = r4Cih6xw9gFAJtq2mN3Vcj0pl8uOvwD9VQQV
 
 + [梓澪の云小店](https://ziling.inveam.net)
 + [机场推荐 Teacat](https://teacat1.com/#/register?code=8Clp7mjO)
-  
