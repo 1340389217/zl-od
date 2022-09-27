@@ -8,7 +8,7 @@
 
 > **联系方式：**【[🐧Q群 422070657](https://qm.qq.com/cgi-bin/qm/qr?k=HOhnnomt8yfmUu83YpLZJzqj8WerK71e&jump_from=webapi)】【📧邮件 zlmio@qq.com】
 
-> **本站永久域名：[梓澪.xyz](https://xn--i0v44m.xyz)**
+> **本站域名：[梓澪.xyz](https://xn--i0v44m.xyz)**
 
 ## <font color="#7B90D2">🏷说明</font>
 
