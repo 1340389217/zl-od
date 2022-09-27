@@ -2,9 +2,9 @@
 
 # <font color="#7B90D2">🏡梓澪の妙妙屋</font>
 
-> 主要分享一些二次元资源
+> 二次元资源分享
 
-> 如果你想要的资源妙妙屋里没有 可以联系我
+> 想要什么资源或者上传资源可以联系我
 
 > **联系方式：**【[🐧Q群 422070657](https://qm.qq.com/cgi-bin/qm/qr?k=HOhnnomt8yfmUu83YpLZJzqj8WerK71e&jump_from=webapi)】【📧邮件 zlmio@qq.com】
 
@@ -12,10 +12,10 @@
 
 ## <font color="#7B90D2">🏷说明</font>
 
-- 建议使用[ IDM ](https://www.123pan.com/s/mkLDVv-VACJv)这类多线程下载器下载本站资源
-- **如果文件下载不了，可能是当前下载人数过多，请过一段时间再下载或者使用rclone挂载下载**
-- 如果视频播放不了，可能是编码不支持，请下载或使用播放器挂载观看
 - **如果你想支持本站，可以多多访问多多宣传**
+- 建议使用[ IDM ](https://www.123pan.com/s/mkLDVv-VACJv)这类多线程下载器下载本站资源
+- 如果文件下载不了，可能是当前下载人数过多，请过一段时间再下载或者使用rclone挂载下载
+- 如果视频播放不了，可能是编码不支持，请下载或使用播放器挂载观看
 
 ### <font color="#7B90D2">🧷WebDAV 配置</font>
 
