@@ -1,6 +1,6 @@
 <img align="right" width="190" src="https://p1.meituan.net/dpplatform/075edf25f3c9dd8a0cd0b69128f018e2100421.png">
 
-# <font color="#7B90D2">🏡梓澪の妙妙屋</font>
+# 🏡梓澪の妙妙屋
 
 > 二次元资源分享
 
@@ -10,7 +10,7 @@
 
 > **永久域名：[梓澪.xyz](https://xn--i0v44m.xyz)**
 
-## <font color="#7B90D2">🏷说明</font>
+## 🏷说明
 
 - **如果你想支持本站，可以多多访问多多宣传**
 - 建议使用[ IDM ](https://www.123pan.com/s/mkLDVv-VACJv)这类多线程下载器下载本站资源
@@ -25,11 +25,9 @@
 - **3. 下载速度慢？**
   - 若下载太慢请使用高速的全局代理或多线程下载器。
 
-
-
 </details>
 
-### <font color="#7B90D2">🧷WebDAV 配置</font>
+### 🧷WebDAV 配置
 
 <details>
   <summary>【查看详情】</summary>
@@ -46,7 +44,7 @@
 
 </details>
 
-### <font color="#7B90D2">🔑 Rclone 配置</font>
+### 🔑 Rclone 配置
 
 <details>
   <summary>【查看详情】</summary>
@@ -77,4 +75,5 @@ pass = r4Cih6xw9gFAJtq2mN3Vcj0pl8uOvwD9VQQV
 [点我下载 RCX - 梓澪妙妙屋内置版](https://www.123pan.com/s/mkLDVv-rECJv)
 
 </details>
+
 
