@@ -8,7 +8,7 @@
 
 > **联系方式：**【[🐧Q群 422070657](https://qm.qq.com/cgi-bin/qm/qr?k=HOhnnomt8yfmUu83YpLZJzqj8WerK71e&jump_from=webapi)】【📧邮件 zilmio@outlook.com】
 
-> **永久域名：[zi0.xyz](https://zi0.xyz)**
+> **永久域名：[zi0.cc](https://zi0.cc)**
 
 ## <font color="#7B90D2"> 🏷说明</font>
 
@@ -34,8 +34,8 @@
 
 | 参数 | 值                   |
 | ---- | -------------------- |
-| 链接 | https://zi0.xyz/dav |
-| 主机 | zi0.xyz         |
+| 链接 | https://zi0.cc/dav |
+| 主机 | zi0.cc         |
 | 路径 | /dav/              |
 | 协议 | SSL                 |
 | 端口 | 443                 |
