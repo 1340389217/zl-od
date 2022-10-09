@@ -80,11 +80,9 @@ pass = r4Cih6xw9gFAJtq2mN3Vcj0pl8uOvwD9VQQV
 
 <div style="text-align:center;">
 
-<b div style=font-size:01px 
- style="color:rgba(139, 230, 243);">计数姬</b>
-
-
+<b style="color:rgba(139, 190, 255);">计数姬</b>
 
 <img align="center" src="https://count.getloli.com/get/@zi00:name" alt=":name" />
 
 </div>
+
