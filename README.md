@@ -76,9 +76,8 @@ pass = r4Cih6xw9gFAJtq2mN3Vcj0pl8uOvwD9VQQV
 
 </details>
 
+---
 
 <div style="text-align:center;">
-
 <img align="center" src="https://count.getloli.com/get/@zi00:name" alt=":name" />
-
 </div>
