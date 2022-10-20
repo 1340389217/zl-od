@@ -13,7 +13,8 @@
 ## <p style="color:rgba(123,144,210);">🏷说明</p>
 
 - **<b style="color:rgba(255,0,255);">如</b><b style="color:rgba(242, 0, 255);">果</b><b style="color:rgba(229, 0, 255);">你</b><b style="color:rgba(216, 0, 255);">想</b><b style="color:rgba(203, 0, 255);">支</b><b style="color:rgba(190, 0, 255);">持</b><b style="color:rgba(177, 0, 255);">本</b><b style="color:rgba(177, 0, 255);">站</b><b style="color:rgba(151, 0, 255);">，</b><b style="color:rgba(138, 0, 255);">可</b><b style="color:rgba(125, 0, 255);">以</b><b style="color:rgba(112, 0, 255);">多</b><b style="color:rgba(99, 0, 255);">多</b><b style="color:rgba(86, 0, 255);">访</b><b style="color:rgba(73, 0, 255);">问</b><b style="color:rgba(60, 0, 255);">多</b><b style="color:rgba(47, 0, 255);">多</b><b style="color:rgba(34, 0, 255);">宣</b><b style="color:rgba(21, 0, 255);">传</b>**
-- 建议使用[ IDM ](https://www.123pan.com/s/mkLDVv-VACJv)这类多线程下载器下载本站资源
+- **建议使用[ IDM ](https://www.123pan.com/s/mkLDVv-VACJv)这类多线程下载器下载本站资源**
+- **为了大家的体验，请不要一直下载占用资源，需要什么就下什么**
 
 <details>
   <summary p style="color:rgba(18,158,255);" /p>【常见问题】</summary>
