@@ -42,38 +42,20 @@
 | 账号 | zi0                  |
 | 密码 | zi0                  |
 
-</details>
-
-### <p style="color:rgba(123,144,210);">🔑 Rclone 配置</p>
+#### <p style="color:rgba(123,144,210);">🧷挂载示例</p>
 
 <details>
   <summary>【查看详情】</summary>
 
-- **rclone配置文件**
+**[📱nplayer挂载](https://zi0.cc/%E5%BA%94%E7%94%A8/%E6%89%8B%E6%9C%BA%E5%BA%94%E7%94%A8/%E5%BD%B1%E8%A7%86/nPlayer_1.7.7.7_191219.apk)**
 
-```
-[wp-1]
-type = webdav
-url = https://06tly-my.sharepoint.com/personal/ziling_06tly_onmicrosoft_com/Documents/
-vendor = sharepoint
-user = web@06tly.onmicrosoft.com
-pass = r4Cih6xw9gFAJtq2mN3Vcj0pl8uOvwD9VQQV
-```
+![nplayer](https://zi0.cc/d/涩图/预览图/202210201128273.png)
 
----
+**[📺️Potplayer挂载](https://potplayer.daum.net/?lang=zh_CN)**
 
-**PC挂载**
+![](https://zi0.cc/d/涩图/预览图/202210201140013.png)
 
-1. 下载核心程序 [Rclone](https://rclone.org/downloads/) 解压，下载图形界面程序 [RcloneBrowser](https://github.com/kapitainsky/RcloneBrowser/releases)  安装。
-2. 新建一个 `rclone.conf` 文本文件，将上述配置文件复制进去。在图形程序中，点击左上角 `file` → `preferences` ， `rclone location` 选择解压出的 rclone 核心主程序 `rclone.exe` ， `rclone.conf location` 选择新建的 `rclone.conf` 文件。
-3. 回到图形程序界面点击左下角 `refresh` 刷新出配置，最后就可以浏览文件批量下载了，在顶部第二行 `Jobs` 中查看传输进程。
-
-**安卓挂载**
-
-下载我内置好的直接食用即可
-
-[点我下载 RCX - 梓澪妙妙屋内置版](https://www.123pan.com/s/mkLDVv-rECJv)
-
+</details>
 </details>
 
 ---
@@ -81,4 +63,3 @@ pass = r4Cih6xw9gFAJtq2mN3Vcj0pl8uOvwD9VQQV
 <div style="text-align:center;">
 <img align="center" src="https://count.getloli.com/get/@zi00:name" alt=":name" />
 </div>
-
