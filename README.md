@@ -6,7 +6,7 @@
 
 > 想要什么资源或者上传资源可以联系我
 
-> **联系方式：**【[🐧Q群 422070657](https://qm.qq.com/cgi-bin/qm/qr?k=HOhnnomt8yfmUu83YpLZJzqj8WerK71e&jump_from=webapi)】【📧邮件 zilmio@outlook.com】
+> **联系方式：**【[🐧Q群 422070657](https://qm.qq.com/cgi-bin/qm/qr?k=HOhnnomt8yfmUu83YpLZJzqj8WerK71e&jump_from=webapi)】
 
 > **永久域名：[zi0.cc](https://zi0.cc)**
 
