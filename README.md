@@ -53,6 +53,18 @@
 ![](https://zi0.cc/d/涩图/预览图/202210201140013.png)
 
 </details>
+
 </details>
 
+### <p style="color:rgba(123,144,210);">📦更新推送</p>
 
+<details>
+  <summary>【查看详情】</summary>
+
+当你订阅的内容更新时会自动发邮件通知你
+目前支持的内容：[涩图]、黄油：[PC] [PC+安卓] [安卓]
+需捐赠≥1元解锁
+
+![](https://p1.meituan.net/dpplatform/10de9ae8193dd5e0a6cc4d5daaf86a96193548.jpg)
+
+</details>
