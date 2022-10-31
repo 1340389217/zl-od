@@ -2,16 +2,13 @@
 
 # <p style="color:rgba(123,144,210);">🏡梓澪の妙妙屋</p>
 
-> 这是一个二次元资源免费分享网站
-
-> 想要什么资源或者上传资源可以联系我
+> 二次元资源收集&免费分享
 
 > **交流群：**【[🐧Q群 422070657](https://qm.qq.com/cgi-bin/qm/qr?k=HOhnnomt8yfmUu83YpLZJzqj8WerK71e&jump_from=webapi)】
 
 #### <p style="color:rgba(123,144,210);">🏷说明</p>
 
 - **<b style="color:rgba(255,0,255);">如</b><b style="color:rgba(242, 0, 255);">果</b><b style="color:rgba(229, 0, 255);">你</b><b style="color:rgba(216, 0, 255);">想</b><b style="color:rgba(203, 0, 255);">支</b><b style="color:rgba(190, 0, 255);">持</b><b style="color:rgba(177, 0, 255);">本</b><b style="color:rgba(177, 0, 255);">站</b><b style="color:rgba(151, 0, 255);">，</b><b style="color:rgba(138, 0, 255);">可</b><b style="color:rgba(125, 0, 255);">以</b><b style="color:rgba(112, 0, 255);">多</b><b style="color:rgba(99, 0, 255);">多</b><b style="color:rgba(86, 0, 255);">访</b><b style="color:rgba(73, 0, 255);">问</b><b style="color:rgba(60, 0, 255);">多</b><b style="color:rgba(47, 0, 255);">多</b><b style="color:rgba(34, 0, 255);">宣</b><b style="color:rgba(21, 0, 255);">传</b>**
-- **为了大家的体验，请不要一直下载占用资源，需要什么就下什么**
 
 <details>
   <summary p style="color:rgba(18,158,255);" /p>【常见问题 必看！！！】</summary>
