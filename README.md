@@ -61,10 +61,12 @@
 <details>
   <summary>【查看详情】</summary>
 
-当你订阅的内容更新时会自动发邮件通知你  
-目前支持的内容：[涩图]、黄油：[PC] [PC+安卓] [安卓]  
-需捐赠≥1元解锁  
-捐赠时备注你的邮箱
+当你订阅的内容更新时会自动发邮件通知你
+目前支持的内容：[涩图]、黄油：[PC] [PC+安卓] [安卓]
+需捐赠≥1元解锁
+捐赠完发邮件到zilmio@outlook.com
+带上捐赠截图和你的邮箱+订阅内容
 ![](https://p1.meituan.net/dpplatform/10de9ae8193dd5e0a6cc4d5daaf86a96193548.jpg)
 
 </details>
+
