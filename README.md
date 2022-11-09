@@ -70,3 +70,14 @@
 
 </details>
 
+### <p style="color:rgba(123,144,210);">🛒批量搬运</p>
+
+<details>
+  <summary>【查看详情】</summary>
+
+使用[Rclone](https://rclone.org)进行批量搬运  
+可搬运网站上任何内容  
+累计捐赠 ≥30 元即可解锁  
+**捐赠完发送捐赠截图到zilmio@outlook.com**  
+
+</details>
