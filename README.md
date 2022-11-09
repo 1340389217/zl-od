@@ -78,7 +78,7 @@
 使用[Rclone](https://rclone.org)进行批量搬运  
 可批量搬运网站上的全部内容  
 累计捐赠 **≥30** 元即可解锁  
-**捐赠完发送捐赠截图到zilmio@outlook.com**  
+**捐赠完发送捐赠截图和你的QQ到zilmio@outlook.com**  
 
 使用教程：  
 下载核心程序 [Rclone](https://rclone.org/downloads/) 解压，下载图形界面程序 [RcloneBrowser](https://github.com/kapitainsky/RcloneBrowser/releases)  安装。在图形程序中，点击左上角 `file` → `preferences` ， `rclone location` 选择解压出的 rclone 核心主程序 `rclone.exe` ， `rclone.conf location` 选择发你的 `rclone.conf` 文件。回到图形程序界面点击左下角 `refresh` 刷新出配置，最后就可以浏览文件批量下载了，在顶部第二行 `Jobs` 中查看传输进程。  
