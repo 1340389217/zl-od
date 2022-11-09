@@ -76,8 +76,8 @@
   <summary>【查看详情】</summary>
 
 使用[Rclone](https://rclone.org)进行批量搬运  
-可搬运网站上任何内容  
-累计捐赠 ≥30 元即可解锁  
+可批量搬运网站上的全部内容  
+累计捐赠 **≥30** 元即可解锁  
 **捐赠完发送捐赠截图到zilmio@outlook.com**  
 
 </details>
