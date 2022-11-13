@@ -1,17 +1,17 @@
 <img align="right" width="190" src="https://p1.meituan.net/dpplatform/075edf25f3c9dd8a0cd0b69128f018e2100421.png">
 
-# <p style="color:rgba(123,144,210);">🏡梓澪の妙妙屋</p>
+# <b style="color:rgba(123,144,210);">🏡梓澪の妙妙屋</b>
 
 > 二次元资源收集&免费分享
 
 > **交流群：**【[🐧Q群 422070657](https://qm.qq.com/cgi-bin/qm/qr?k=HOhnnomt8yfmUu83YpLZJzqj8WerK71e&jump_from=webapi)】
 
-### <p style="color:rgba(123,144,210);">🏷说明</p>
+### <b style="color:rgba(123,144,210);">🏷说明</b>
 
 - **<b style="color:rgba(255,0,255);">如</b><b style="color:rgba(242, 0, 255);">果</b><b style="color:rgba(229, 0, 255);">你</b><b style="color:rgba(216, 0, 255);">想</b><b style="color:rgba(203, 0, 255);">支</b><b style="color:rgba(190, 0, 255);">持</b><b style="color:rgba(177, 0, 255);">本</b><b style="color:rgba(177, 0, 255);">站</b><b style="color:rgba(151, 0, 255);">，</b><b style="color:rgba(138, 0, 255);">可</b><b style="color:rgba(125, 0, 255);">以</b><b style="color:rgba(112, 0, 255);">多</b><b style="color:rgba(99, 0, 255);">多</b><b style="color:rgba(86, 0, 255);">访</b><b style="color:rgba(73, 0, 255);">问</b><b style="color:rgba(60, 0, 255);">多</b><b style="color:rgba(47, 0, 255);">多</b><b style="color:rgba(34, 0, 255);">宣</b><b style="color:rgba(21, 0, 255);">传</b>**
 
 <details>
-  <summary p style="color:rgba(18,158,255);" /p>【常见问题 必看！！！】</summary>
+  <summary b style="color:rgba(18,158,255);" /b>【常见问题 必看！！！】</summary>
 
 - **1. 解压密码？**
   - 网站里的资源基本都没有加密，如果有密码我会放到资源下面。
@@ -24,7 +24,7 @@
 
 </details>
 
-### <p style="color:rgba(123,144,210);">🧷WebDAV 配置</p>
+### <b style="color:rgba(123,144,210);">🧷WebDAV 配置</b>
 
 <details>
   <summary>【查看详情】</summary>
@@ -39,7 +39,7 @@
 | 账号 | zi0                  |
 | 密码 | zi0                  |
 
-### <p style="color:rgba(123,144,210);">🧷挂载示例</p>
+### <b style="color:rgba(123,144,210);">🧷挂载示例</b>
 
 <details>
   <summary>【查看详情】</summary>
@@ -56,35 +56,33 @@
 
 </details>
 
-### <p style="color:rgba(123,144,210);">📦更新推送</p>
+
+### <b style="color:rgba(235, 81, 81);">👑高级功能</b>
 
 <details>
   <summary>【查看详情】</summary>
 
+#### <b style="color:rgba(123,144,210);">📦更新推送</b>  
 当你订阅的内容更新时会自动发邮件通知你  
 目前支持的内容：[涩图]、黄油：[PC] [PC+安卓] [安卓]  
-需捐赠≥1元解锁  
+需捐赠 **≥1** 元解锁  
 捐赠完发邮件到zilmio@outlook.com   
-带上捐赠截图和你的邮箱+订阅内容  
-![](https://p1.meituan.net/dpplatform/10de9ae8193dd5e0a6cc4d5daaf86a96193548.jpg)
+**带上捐赠截图和你的邮箱+订阅内容**  
 
-</details>
-
-### <p style="color:rgba(123,144,210);">🛒批量搬运</p>
-
-<details>
-  <summary>【查看详情】</summary>
-
-使用[Rclone](https://rclone.org)进行批量搬运  
-可批量搬运网站上的全部内容  
+#### <b style="color:rgba(123,144,210);">🛒批量搬运</b>  
+使用[Rclone](https://rclone.org)挂载  ，可批量搬运网站上的全部内容  
 **当网站被限制或者崩溃时，这个不受影响**  
 累计捐赠 **≥30** 元即可解锁  
 **捐赠完发送捐赠截图和你的QQ到zilmio@outlook.com**  
 
-使用教程  
+<details>
+  <summary>【使用教程】</summary>
+  
 PC端:  
 下载核心程序 [Rclone](https://rclone.org/downloads/) 解压，下载图形界面程序 [RcloneBrowser](https://github.com/kapitainsky/RcloneBrowser/releases)  安装。在图形程序中，点击左上角 `file` → `preferences` ， `rclone location` 选择解压出的 rclone 核心主程序 `rclone.exe` ， `rclone.conf location` 选择发你的 `rclone.conf` 文件。回到图形程序界面点击左下角 `refresh` 刷新出配置，最后就可以浏览文件批量下载了，在顶部第二行 `Jobs` 中查看传输进程。  
 
 安卓端：  
 下载我内置好的直接食用即可
+
+</details>
 </details>
