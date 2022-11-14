@@ -16,7 +16,7 @@
 - **1. 解压密码？**
   - 网站里的资源基本都没有加密，如果有密码我会放到资源下面。
 - **2. 下载速度慢？**
-  - 若下载太慢请使用高速的全局代理或[多线程下载器](https://www.123pan.com/s/mkLDVv-VACJv)。
+  - 若下载太慢请使用高速的全局代理或[多线程下载器](https://www.123pan.com/s/mkLDVv-DfCJv)。
 - **3. 文件下载不了？**
   - 网站被频繁访问会触发 API 调用限制，若报错 `activityLimitReached` 、`The request has been throttled`之类请刷新或稍后再试。
 - **4. 视频播放不了？有声无画面? 有画面无声音?**
