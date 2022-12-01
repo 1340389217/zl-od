@@ -24,6 +24,16 @@
 
 </details>
 
+![表格](./attachments/1669896767356.table.html)
+
+
+### <b style="color:rgba(123,144,210);">资源大小</b>
+
+<details>
+  <summary>【查看详情】</summary>
+
+</details>
+
 ### <b style="color:rgba(123,144,210);">🧷WebDAV 配置</b>
 
 <details>
