@@ -12,7 +12,6 @@
 
 - **<b style="color:rgba(255,0,255);">如</b><b style="color:rgba(242, 0, 255);">果</b><b style="color:rgba(229, 0, 255);">你</b><b style="color:rgba(216, 0, 255);">想</b><b style="color:rgba(203, 0, 255);">支</b><b style="color:rgba(190, 0, 255);">持</b><b style="color:rgba(177, 0, 255);">本</b><b style="color:rgba(177, 0, 255);">站</b><b style="color:rgba(151, 0, 255);">，</b><b style="color:rgba(138, 0, 255);">可</b><b style="color:rgba(125, 0, 255);">以</b><b style="color:rgba(112, 0, 255);">多</b><b style="color:rgba(99, 0, 255);">多</b><b style="color:rgba(86, 0, 255);">访</b><b style="color:rgba(73, 0, 255);">问</b><b style="color:rgba(60, 0, 255);">多</b><b style="color:rgba(47, 0, 255);">多</b><b style="color:rgba(34, 0, 255);">宣</b><b style="color:rgba(21, 0, 255);">传</b>**
 
-各分区资源大小
 | 资源 | 3D动画 | ASMR | 应用  | 涩图  | 游戏  | 番剧  | 漫画  |
 | ---- | ------ | ---- | ----- | ----- | ----- | ----- | ----- |
 | 大小 | 130G   | 100G | 22.3G | 2.73T | 2.29T | 2.57T | 0.39G |
