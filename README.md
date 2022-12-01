@@ -6,6 +6,10 @@
 
 > **交流群：**【[🐧Q群 422070657](https://qm.qq.com/cgi-bin/qm/qr?k=HOhnnomt8yfmUu83YpLZJzqj8WerK71e&jump_from=webapi)】
 
+| 资源 | 3D动画 | ASMR | 应用  | 涩图  | 游戏  | 番剧  | 漫画  |
+| ---- | ------ | ---- | ----- | ----- | ----- | ----- | ----- |
+| 大小 | 130G   | 100G | 22.3G | 2.73T | 2.29T | 2.57T | 0.39G |
+
 ### <b style="color:rgba(123,144,210);">🏷说明</b>
 
 - **<b style="color:rgba(255,0,255);">如</b><b style="color:rgba(242, 0, 255);">果</b><b style="color:rgba(229, 0, 255);">你</b><b style="color:rgba(216, 0, 255);">想</b><b style="color:rgba(203, 0, 255);">支</b><b style="color:rgba(190, 0, 255);">持</b><b style="color:rgba(177, 0, 255);">本</b><b style="color:rgba(177, 0, 255);">站</b><b style="color:rgba(151, 0, 255);">，</b><b style="color:rgba(138, 0, 255);">可</b><b style="color:rgba(125, 0, 255);">以</b><b style="color:rgba(112, 0, 255);">多</b><b style="color:rgba(99, 0, 255);">多</b><b style="color:rgba(86, 0, 255);">访</b><b style="color:rgba(73, 0, 255);">问</b><b style="color:rgba(60, 0, 255);">多</b><b style="color:rgba(47, 0, 255);">多</b><b style="color:rgba(34, 0, 255);">宣</b><b style="color:rgba(21, 0, 255);">传</b>**
@@ -21,18 +25,6 @@
   - 网站被频繁访问会触发 API 调用限制，若报错 `activityLimitReached` 、`The request has been throttled`之类请刷新或稍后再试。
 - **4. 视频播放不了？有声无画面? 有画面无声音?**
   - 一般浏览器不支持h.265（hevc）等编码视频，ac3等编码音频，Safari不支持的更多，**建议使用软件播放**。
-
-</details>
-
-<!--
-![表格](./attachments/1669896767356.table.html)
--->
-
-
-### <b style="color:rgba(123,144,210);">资源大小</b>
-
-<details>
-  <summary>【查看详情】</summary>
 
 </details>
 
