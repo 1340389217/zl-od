@@ -6,7 +6,7 @@
 
 > **交流群：**【[🐧Q群 422070657](https://qm.qq.com/cgi-bin/qm/qr?k=HOhnnomt8yfmUu83YpLZJzqj8WerK71e&jump_from=webapi)】
 
-> 截止2022年12月1日
+> 截止2022年11月
 
 | 资源 | 3D动画 | ASMR | 应用  | 涩图  | 游戏  | 番剧  | 漫画  |
 | ---- | ------ | ---- | ----- | ----- | ----- | ----- | ----- |
