@@ -4,7 +4,7 @@
 
 > 二次元资源收集&免费分享
 
-> **交流群：**【[🐧Q群 422070657](https://qm.qq.com/cgi-bin/qm/qr?k=HOhnnomt8yfmUu83YpLZJzqj8WerK71e&jump_from=webapi)】
+> **交流群：**【[🐧Q群 199923370](https://jq.qq.com/?_wv=1027&k=drkjN5WD)】
 
 > 截止2022年11月
 
