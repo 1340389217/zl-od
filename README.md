@@ -4,7 +4,7 @@
 
 > 二次元资源收集&免费分享
 
-> **交流群：**【[✈️Tg](https://t.me/+t32raasFc8RkNTc1)】
+> **交流群：**【[✈️Tg](https://t.me/mio_house)】
 
 > 截止2022年11月
 
