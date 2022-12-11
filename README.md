@@ -79,17 +79,16 @@
 
 发邮件到 yx@dy.zi0.cc 即可自动开通
 邮件格式：
-主题填写 “开通订阅”
-正文填写你要开通的内容
-支持订阅的内容：【3D动画】 【涩图】 【黄油PC】  【黄油PC+安卓】 【黄油安卓】 【漫画】
+主题填写 “**开通/取消订阅**”
+正文填写你要开通/取消的内容
+支持订阅的内容：
+【3D动画】 【涩图】 【黄油PC】  【黄油PC+安卓】 【黄油安卓】 【漫画】
 如果想全订，输入【全部】即可
+订阅成功会自动回复你开通成功
 
   
-![示例](https://m.360buyimg.com/babel/jfs/t1/130357/38/30782/19350/6395966cE13c94814/966b3b0140fd1279.png)![示例](https://m.360buyimg.com/babel/jfs/t1/100265/33/28565/18332/6395984aE25901134/3fb7518edb98f0de.png)
+![](https://m.360buyimg.com/babel/jfs/t1/130357/38/30782/19350/6395966cE13c94814/966b3b0140fd1279.png)![](https://m.360buyimg.com/babel/jfs/t1/100265/33/28565/18332/6395984aE25901134/3fb7518edb98f0de.png)![](https://m.360buyimg.com/babel/jfs/t1/192978/29/29592/20081/63959bd8E91a6b06c/ab4d270121e1740d.png)![](https://m.360buyimg.com/babel/jfs/t1/70181/11/19484/4806/63959d5dE4c066c50/ddb8c849b8d0aaca.png)
 
-  <center class="half">
-    <img src="https://m.360buyimg.com/babel/jfs/t1/130357/38/30782/19350/6395966cE13c94814/966b3b0140fd1279.png" width="200"/><img src="https://m.360buyimg.com/babel/jfs/t1/100265/33/28565/18332/6395984aE25901134/3fb7518edb98f0de.png" width="200"/>
-</center>
 
 
   
