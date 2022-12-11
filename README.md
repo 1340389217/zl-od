@@ -87,7 +87,9 @@
   
 ![示例](https://m.360buyimg.com/babel/jfs/t1/130357/38/30782/19350/6395966cE13c94814/966b3b0140fd1279.png)![示例](https://m.360buyimg.com/babel/jfs/t1/100265/33/28565/18332/6395984aE25901134/3fb7518edb98f0de.png)
 
-  
+  <center class="half">
+    <img src="https://m.360buyimg.com/babel/jfs/t1/130357/38/30782/19350/6395966cE13c94814/966b3b0140fd1279.png" width="200"/><img src="https://m.360buyimg.com/babel/jfs/t1/100265/33/28565/18332/6395984aE25901134/3fb7518edb98f0de.png" width="200"/>
+</center>
 
 
   
