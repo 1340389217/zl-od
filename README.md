@@ -68,9 +68,44 @@
 <details>
   <summary>【查看详情】</summary>
 
+
+#### <b style="color:rgba(123,144,210);">📤️更新推送</b>  
+
+当你订阅的内容更新时，会自动发邮件提醒你
+
+
+<details>
+  <summary b style="color:rgba(91,97,242);" /b>点击查看开通教程</summary>
+
+发邮件到 yx@dy.zi0.cc 即可自动开通
+邮件格式：
+主题填写 “开通订阅”
+正文填写你要开通的内容
+支持订阅的内容：【3D动画】 【涩图】 【黄油PC】  【黄油PC+安卓】 【黄油安卓】 【漫画】
+如果想全订，输入【全部】即可
+
+  
+![示例](https://m.360buyimg.com/babel/jfs/t1/130357/38/30782/19350/6395966cE13c94814/966b3b0140fd1279.png)![示例](https://m.360buyimg.com/babel/jfs/t1/100265/33/28565/18332/6395984aE25901134/3fb7518edb98f0de.png)
+
+  
+
+
+  
+  </details>
+
+<details>
+  <summary b style="color:rgba(91,97,242);" /b>点击查看功能演示</summary>
+  
+![黄油更新推送](https://m.360buyimg.com/babel/jfs/t1/30691/31/19562/23845/6394ab42Ef519d06d/bb32cddf12f46597.png)
+
+![涩图更新推送](https://m.360buyimg.com/babel/jfs/t1/96086/39/31212/17948/6394acd2E78bdcaed/e37d114ffd8547cd.png)
+
+  </details>
+  
+  
 #### <b style="color:rgba(123,144,210);">📦独享账号</b>   
 
-解锁方式：**捐赠10元** 或 **提供资源**<!--**帮找资源**  -->  
+解锁方式：**捐赠10元** 或 **提供资源**
 网站人多了下载会被限制     
 这个相当于是专线下载  
 **当网站下载被限制、维护或崩溃时，这个不受影响**  
@@ -94,18 +129,6 @@
   </details>
 
 
-<!--
-<details>
-  <summary>【帮找资源】</summary>
-  
-[点击加入QQ频道](https://pd.qq.com/s/bmg0dzv1k)  
-频道内会发布求资源贴，需累计帮找 **5** 次资源  
-找到之后以链接形式发到该帖子评论区  
-并且截图，凑够5次之后发我  
- - 链接必须有效，失效的不算  
-
-  </details>
-  -->
   
 ***
 #### <b style="color:rgba(123,144,210);">🛒批量搬运</b>  
@@ -113,7 +136,7 @@
 **没有需求或者不懂Rclone是什么的不推荐使用**  
 使用[Rclone](https://rclone.org)挂载  ，可批量搬运网站上的全部内容   
 **当网站下载被限制、维护或崩溃时，这个不受影响**     
-**捐赠完发送捐赠截图和你的QQ到zilmio@outlook.com**  
+**捐赠完发送捐赠截图和你的QQ到 zilmio@outlook.com**  
 
 <details>
   <summary>【使用教程】</summary>
