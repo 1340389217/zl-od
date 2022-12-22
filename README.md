@@ -52,11 +52,11 @@
 
 **[📱nplayer挂载](https://zi0.cc/%E5%BA%94%E7%94%A8/%E6%89%8B%E6%9C%BA%E5%BA%94%E7%94%A8/%E5%BD%B1%E8%A7%86/nPlayer_1.7.7.7_191219.apk)**
 
-![nplayer](https://zi0.cc/d/涩图/预览图/202210201128273.png)
+![nplayer](https://zi0.cc/d/%E6%B6%A9%E5%9B%BE/%E9%A2%84%E8%A7%88%E5%9B%BE/202210201128273.png?sign=sdsonruCEEoWIuFmWgE_SFNnw5OkYyKzoJAN4ZO_P_0=:0)
 
 **[📺️Potplayer挂载](https://potplayer.daum.net/?lang=zh_CN)**
 
-![](https://zi0.cc/d/涩图/预览图/202210201140013.png)
+![](https://zi0.cc/d/%E6%B6%A9%E5%9B%BE/%E9%A2%84%E8%A7%88%E5%9B%BE/202210201140013.png?sign=GaS8rkTy_1YiPOxdfRMfTXnvjqOXinLAMF3EMaoe63k=:0)
 
 </details>
 
