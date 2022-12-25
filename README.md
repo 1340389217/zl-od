@@ -63,6 +63,7 @@
 </details>
 
 
+
 ### <b style="color:rgba(235, 81, 81);">👑高级功能</b>
 
 <details>
@@ -105,46 +106,19 @@
   
 #### <b style="color:rgba(123,144,210);">📦独享账号</b>   
 
-解锁方式：**捐赠10元** 或 **提供资源**      
-这个相当于是专线下载  
+捐赠 10 元解锁
 **当网站下载被限制、维护或崩溃时，这个不受影响**  
 **捐赠完发送捐赠截图到zilmio@outlook.com**  
 
 
-
-<details>
-  <summary>【提供资源】</summary>
-
- 1. 网站上没有的资源  
- 2. **稀有资源**（随便一搜就有的不行）或者**合集**（比如某某社游戏合集）  
-
-**提供方式：**  
-
- - 百度、阿里、微软、谷歌等网盘分享链接  
- - 种子文件    
- - 如果资源在本地，可以联系我获取上传权限直接上传  
- 
-**提供资源请发邮件到 zilmio@outlook.com 备注提供资源**  
-  </details>
-
-
-  
 ***
+
 #### <b style="color:rgba(123,144,210);">🛒批量搬运</b>  
 累计捐赠 **30** 元即可解锁  
 **没有需求或者不懂Rclone是什么的不推荐使用**  
-使用[Rclone](https://rclone.org)挂载  ，可批量搬运网站上的全部内容   
+使用[Rclone](https://rclone.org) ，可批量搬运网站上的全部内容   
 **当网站下载被限制、维护或崩溃时，这个不受影响**     
-**捐赠完发送捐赠截图和你的QQ到 zilmio@outlook.com**  
-
-<details>
-  <summary>【使用教程】</summary>
-  
-PC端:  
-下载核心程序 [Rclone](https://rclone.org/downloads/) 解压，下载图形界面程序 [RcloneBrowser](https://github.com/kapitainsky/RcloneBrowser/releases)  安装。在图形程序中，点击左上角 `file` → `preferences` ， `rclone location` 选择解压出的 rclone 核心主程序 `rclone.exe` ， `rclone.conf location` 选择发你的 `rclone.conf` 文件。回到图形程序界面点击左下角 `refresh` 刷新出配置，最后就可以浏览文件批量下载了，在顶部第二行 `Jobs` 中查看传输进程。  
-
-安卓端：  
-下载我内置好的直接食用即可
+**捐赠完发送捐赠截图到 zilmio@outlook.com**  
 
 </details>
 </details>
