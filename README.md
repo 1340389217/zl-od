@@ -37,8 +37,8 @@
 | 参数 | 值                   |
 | ---- | -------------------- |
 | 链接 | https://zi0.cc/dav |
-| 主机 | zi0.cc         |
-| 路径 | /dav/              |
+| 主机 | zi0.cc             |
+| 路径 | /dav/               |
 | 协议 | SSL                 |
 | 端口 | 443                 |
 | 账号 | zi0                  |
@@ -71,58 +71,33 @@
 </center>
 
 
-
-
-
-
-#### <b style="color:rgba(123,144,210);">📤️更新推送</b>  
-
-当你订阅的内容更新时，会自动发邮件提醒你  
-
-
-<img src="https://m.360buyimg.com/babel/jfs/t1/96086/39/31212/17948/6394acd2E78bdcaed/e37d114ffd8547cd.png" alt="GitHub" title="1" width="270" height="100%" />
+|  <center>📤️更新推送</center>    |  <center>📦独享账号</center>   |  <center>🛒批量搬运</center>   | 
+| ---  | --- | --- |
+|   发邮件自动开通  |   捐赠 **10** 元解锁  |   累计捐赠 **30** 元解锁  |
+|  当你订阅的内容更新时，会自动发邮件提醒你   |  当网站下载被限制、维护或崩溃时，这个不受影响   |  可批量搬运网站上的全部资源，**没有需求或者不知道[Rclone](https://rclone.org)是什么的不推荐使用**   | 
 
 <details>
-  <summary b style="color:rgba(91,97,242);" /b>点击查看开通教程</summary>
+  <summary b style="color:rgba(91,97,242);" /b>📤️更新推送开通教程</summary>
 
-发邮件到 yx@dy.zi0.cc 即可自动开通  
-**邮件格式：**  
-主题填写 “**开通/取消订阅**”  
-正文填写你要 **开通/取消** 的内容  
-支持订阅的内容：  
+发邮件到 <yx@dy.zi0.cc> 即可自动开通  
+**主题：** 开通/取消订阅  
+**正文：** 内容   
+**支持订阅的内容：**   
 **【3D动画】 【涩图】 【黄油PC】  【黄油PC+安卓】 【黄油安卓】 【漫画】**  
-如果想全订，输入【全部】即可  
-订阅成功会自动回复你  
-
-  
-![](https://m.360buyimg.com/babel/jfs/t1/130357/38/30782/19350/6395966cE13c94814/966b3b0140fd1279.png)![](https://m.360buyimg.com/babel/jfs/t1/100265/33/28565/18332/6395984aE25901134/3fb7518edb98f0de.png)![](https://m.360buyimg.com/babel/jfs/t1/192978/29/29592/20081/63959bd8E91a6b06c/ab4d270121e1740d.png)![](https://m.360buyimg.com/babel/jfs/t1/70181/11/19484/4806/63959d5dE4c066c50/ddb8c849b8d0aaca.png)
-
-
-
-  
-  </details>
-
-
-  
----
-  
-#### <b style="color:rgba(123,144,210);">📦独享账号</b>   
-
-捐赠 **10** 元解锁  
-**当网站下载被限制、维护或崩溃时，这个不受影响**  
-**捐赠完发送捐赠截图到zilmio@outlook.com**  
-
-
-***
-
-#### <b style="color:rgba(123,144,210);">🛒批量搬运</b>  
-
-累计捐赠 **30** 元即可解锁  
-可批量搬运网站上的全部资源   
-**没有需求或者不懂[Rclone](https://rclone.org)是什么的不推荐使用**  
-**捐赠完发送捐赠截图到 zilmio@outlook.com**  
+如果想全订，输入 **【全部】** 即可  
+订阅成功会自动回复你   
+<img src="https://m.360buyimg.com/babel/jfs/t1/96086/39/31212/17948/6394acd2E78bdcaed/e37d114ffd8547cd.png" alt="GitHub" title="1" width="270" height="100%" /><img src="https://m.360buyimg.com/babel/jfs/t1/130357/38/30782/19350/6395966cE13c94814/966b3b0140fd1279.png" alt="GitHub" title="1" width="270" height="100%" /><img src="https://m.360buyimg.com/babel/jfs/t1/100265/33/28565/18332/6395984aE25901134/3fb7518edb98f0de.png" alt="GitHub" title="1" width="270" height="100%" /><img src="https://m.360buyimg.com/babel/jfs/t1/192978/29/29592/20081/63959bd8E91a6b06c/ab4d270121e1740d.png" alt="GitHub" title="1" width="270" height="100%" /><img src="https://m.360buyimg.com/babel/jfs/t1/70181/11/19484/4806/63959d5dE4c066c50/ddb8c849b8d0aaca.png" alt="GitHub" title="1" width="270" height="100%" />
 
 </details>
+
+*累计捐赠：不管什么时候捐赠的，只要加起来到 30 即可  
+**捐赠完发送捐赠截图到<zilmio@outlook.com>**    
+
+
+
+
+
+
 
 
 
