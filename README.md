@@ -14,6 +14,7 @@
 
 ### <b style="color:rgba(123,144,210);">🏷说明</b>
 
+- **主站域名：zi0.cc**  
 - **<b style="color:rgba(255,0,255);">如</b><b style="color:rgba(242, 0, 255);">果</b><b style="color:rgba(229, 0, 255);">你</b><b style="color:rgba(216, 0, 255);">喜</b><b style="color:rgba(203, 0, 255);">欢</b><b style="color:rgba(190, 0, 255);">本</b><b style="color:rgba(177, 0, 255);">站</b><b style="color:rgba(177, 0, 255);">，</b><b style="color:rgba(151, 0, 255);">可</b><b style="color:rgba(138, 0, 255);">以</b><b style="color:rgba(125, 0, 255);">多</b><b style="color:rgba(112, 0, 255);">多</b><b style="color:rgba(99, 0, 255);">访</b><b style="color:rgba(86, 0, 255);">问</b><b style="color:rgba(73, 0, 255);">多</b><b style="color:rgba(60, 0, 255);">多</b><b style="color:rgba(47, 0, 255);">宣</b><b style="color:rgba(34, 0, 255);">传</b><!--<b style="color:rgba(21, 0, 255);">传</b>-->**
 
 <details>
@@ -45,8 +46,6 @@
 
 ### <b style="color:rgba(123,144,210);">🧷挂载示例</b>
 
-<details>
-  <summary>【查看详情】</summary>
 
 **[📱nplayer挂载](https://zi0.cc/%E5%BA%94%E7%94%A8/%E6%89%8B%E6%9C%BA%E5%BA%94%E7%94%A8/%E5%BD%B1%E8%A7%86/nPlayer_1.7.7.7_191219.apk)**
 
@@ -58,20 +57,30 @@
 
 </details>
 
-</details>
 
 
 
-### <b style="color:rgba(235, 81, 81);">👑高级功能</b>
 
-<details>
-  <summary>【查看详情】</summary>
+
+<center>
+——————
+<a style="color:rgba(0,0,255);">高</a><a style="color:rgba(64,0,255);">级</a><a style="color:rgba(128,0,255);">功</a><a style="color:rgba(192,0,255);">能</a>
+——————
+
+
+</center>
+
+
+
+
 
 
 #### <b style="color:rgba(123,144,210);">📤️更新推送</b>  
 
-当你订阅的内容更新时，会自动发邮件提醒你
+当你订阅的内容更新时，会自动发邮件提醒你  
 
+
+<img src="https://m.360buyimg.com/babel/jfs/t1/96086/39/31212/17948/6394acd2E78bdcaed/e37d114ffd8547cd.png" alt="GitHub" title="1" width="270" height="100%" />
 
 <details>
   <summary b style="color:rgba(91,97,242);" /b>点击查看开通教程</summary>
@@ -93,18 +102,13 @@
   
   </details>
 
-<details>
-  <summary b style="color:rgba(91,97,242);" /b>点击查看功能演示</summary>
-  
-![黄油更新推送](https://m.360buyimg.com/babel/jfs/t1/30691/31/19562/23845/6394ab42Ef519d06d/bb32cddf12f46597.png)![涩图更新推送](https://m.360buyimg.com/babel/jfs/t1/96086/39/31212/17948/6394acd2E78bdcaed/e37d114ffd8547cd.png)
 
-  </details>
   
 ---
   
 #### <b style="color:rgba(123,144,210);">📦独享账号</b>   
 
-捐赠 10 元解锁  
+捐赠 **10** 元解锁  
 **当网站下载被限制、维护或崩溃时，这个不受影响**  
 **捐赠完发送捐赠截图到zilmio@outlook.com**  
 
@@ -112,11 +116,15 @@
 ***
 
 #### <b style="color:rgba(123,144,210);">🛒批量搬运</b>  
+
 累计捐赠 **30** 元即可解锁  
-**没有需求或者不懂Rclone是什么的不推荐使用**  
-使用[Rclone](https://rclone.org) ，可批量搬运网站上的全部内容   
-**当网站下载被限制、维护或崩溃时，这个不受影响**     
+可批量搬运网站上的全部资源   
+**没有需求或者不懂[Rclone](https://rclone.org)是什么的不推荐使用**  
 **捐赠完发送捐赠截图到 zilmio@outlook.com**  
 
 </details>
-</details>
+
+
+
+
+
