@@ -14,7 +14,7 @@
 
 ### <b style="color:rgba(123,144,210);">🏷说明</b>
 
-- **主站域名：zi0.cc**  
+- **主站域名：[zi0.cc](https://zi0.cc)**  
 - **<b style="color:rgba(255,0,255);">如</b><b style="color:rgba(242, 0, 255);">果</b><b style="color:rgba(229, 0, 255);">你</b><b style="color:rgba(216, 0, 255);">喜</b><b style="color:rgba(203, 0, 255);">欢</b><b style="color:rgba(190, 0, 255);">本</b><b style="color:rgba(177, 0, 255);">站</b><b style="color:rgba(177, 0, 255);">，</b><b style="color:rgba(151, 0, 255);">可</b><b style="color:rgba(138, 0, 255);">以</b><b style="color:rgba(125, 0, 255);">多</b><b style="color:rgba(112, 0, 255);">多</b><b style="color:rgba(99, 0, 255);">访</b><b style="color:rgba(86, 0, 255);">问</b><b style="color:rgba(73, 0, 255);">多</b><b style="color:rgba(60, 0, 255);">多</b><b style="color:rgba(47, 0, 255);">宣</b><b style="color:rgba(34, 0, 255);">传</b><!--<b style="color:rgba(21, 0, 255);">传</b>-->**
 
 <details>
@@ -58,18 +58,13 @@
 </details>
 
 
-
-
-
-
 <center>
 ——————
 <a style="color:rgba(0,0,255);">高</a><a style="color:rgba(64,0,255);">级</a><a style="color:rgba(128,0,255);">功</a><a style="color:rgba(192,0,255);">能</a>
 ——————
 
-
 </center>
-
+</br>
 
 |  <center>📤️更新推送</center>    |  <center>📦独享账号</center>   |  <center>🛒批量搬运</center>   | 
 | ---  | --- | --- |
