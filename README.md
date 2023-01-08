@@ -66,10 +66,13 @@
 </center>
 </br>
 
-|  <center>📤️更新推送</center>    |  <center>📦独享账号</center>   |  <center>🛒批量搬运</center>   | 
-| ---  | --- | --- |
-|   发邮件自动开通  |   捐赠 **10** 元解锁  |   累计捐赠 **30** 元解锁  |
-|  当你订阅的内容更新时，会自动发邮件提醒你   |  当网站下载被限制、维护或崩溃时，这个不受影响   |  可批量搬运网站上的全部资源，**没有需求或者不知道[Rclone](https://rclone.org)是什么的不推荐使用**   | 
+| 功能 |  <center>📤️更新推送</center>    |  <center>📦独享账号</center>   |  <center>🛒批量搬运</center>   | 
+| --- |  ---  | --- | --- |
+|解锁方式 |   发邮件自动开通  |   捐赠 **10** 元解锁  |   累计捐赠¹ **30** 元解锁（包含独享账号）  |
+| 功能说明 |  当你订阅的内容更新时，会自动发邮件提醒你   |  当网站下载被限制、维护或崩溃时，这个不受影响   |  可批量搬运网站上的全部资源</br>**没有需求或者不知道[Rclone](https://rclone.org)是什么的不推荐使用**   | 
+| 获取方式 |  看下方详细教程  |发送捐赠截图到</br><yx@dy.zi0.cc> |发送捐赠截图到<yx@dy.zi0.cc></br>主题填写 "批量搬运" |
+
+![表格](./attachments/1673157727302.table.html)
 
 <details>
   <summary b style="color:rgba(91,97,242);" /b>📤️更新推送开通教程</summary>
@@ -78,15 +81,15 @@
 **主题：** 开通/取消订阅  
 **正文：** 内容   
 **支持订阅的内容：**   
-**【3D动画】 【涩图】 【黄油PC】  【黄油PC+安卓】 【黄油安卓】 【漫画】**  
+**【3D动画】【涩图】【黄油】【漫画】【里番】**  
 如果想全订，输入 **【全部】** 即可  
 订阅成功会自动回复你   
-<img src="https://m.360buyimg.com/babel/jfs/t1/96086/39/31212/17948/6394acd2E78bdcaed/e37d114ffd8547cd.png" alt="GitHub" title="1" width="270" height="100%" /><img src="https://m.360buyimg.com/babel/jfs/t1/130357/38/30782/19350/6395966cE13c94814/966b3b0140fd1279.png" alt="GitHub" title="1" width="270" height="100%" /><img src="https://m.360buyimg.com/babel/jfs/t1/100265/33/28565/18332/6395984aE25901134/3fb7518edb98f0de.png" alt="GitHub" title="1" width="270" height="100%" /><img src="https://m.360buyimg.com/babel/jfs/t1/192978/29/29592/20081/63959bd8E91a6b06c/ab4d270121e1740d.png" alt="GitHub" title="1" width="270" height="100%" /><img src="https://m.360buyimg.com/babel/jfs/t1/70181/11/19484/4806/63959d5dE4c066c50/ddb8c849b8d0aaca.png" alt="GitHub" title="1" width="270" height="100%" />
+<img src="https://m.360buyimg.com/babel/jfs/t1/96086/39/31212/17948/6394acd2E78bdcaed/e37d114ffd8547cd.png" alt="" title="1" width="270" height="100%" /><img src="https://m.360buyimg.com/babel/jfs/t1/196165/2/31289/17712/63b798efF6ae9c7ee/ab56c8ad4a0b481c.png" alt="" title="1" width="270" height="100%" /><img src="https://m.360buyimg.com/babel/jfs/t1/100265/33/28565/18332/6395984aE25901134/3fb7518edb98f0de.png" alt="" title="1" width="270" height="100%" /><img src="https://m.360buyimg.com/babel/jfs/t1/192978/29/29592/20081/63959bd8E91a6b06c/ab4d270121e1740d.png" alt="" title="1" width="270" height="100%" /><img src="https://m.360buyimg.com/babel/jfs/t1/41240/32/22041/4019/63b79937Fc9fe47e2/6065cfaa88c062a9.png" alt="" title="1" width="270" height="100%" />
 
 </details>
 
-*累计捐赠：不管什么时候捐赠的，只要加起来到 30 即可  
-**捐赠完发送捐赠截图到<zilmio@outlook.com>**    
+累计捐赠¹：不管什么时候捐赠的，只要加起来到 30 即可  
+
 
 
 
