@@ -84,10 +84,13 @@
 订阅成功会自动回复你   
 <img src="https://m.360buyimg.com/babel/jfs/t1/96086/39/31212/17948/6394acd2E78bdcaed/e37d114ffd8547cd.png" alt="" title="1" width="270" height="100%" /><img src="https://m.360buyimg.com/babel/jfs/t1/196165/2/31289/17712/63b798efF6ae9c7ee/ab56c8ad4a0b481c.png" alt="" title="1" width="270" height="100%" /><img src="https://m.360buyimg.com/babel/jfs/t1/100265/33/28565/18332/6395984aE25901134/3fb7518edb98f0de.png" alt="" title="1" width="270" height="100%" /><img src="https://m.360buyimg.com/babel/jfs/t1/192978/29/29592/20081/63959bd8E91a6b06c/ab4d270121e1740d.png" alt="" title="1" width="270" height="100%" /><img src="https://m.360buyimg.com/babel/jfs/t1/41240/32/22041/4019/63b79937Fc9fe47e2/6065cfaa88c062a9.png" alt="" title="1" width="270" height="100%" />
 
+---
+
 </details>
 
-累计捐赠：不管什么时候捐赠的，只要加起来到 30 即可  
-
+***累计捐赠**：不管什么时候捐赠的，只要加起来到30  
+**📦独享账号**：捐赠后发送捐赠截图到邮箱 <yx@dy.zi0.cc>
+**🛒批量搬运**：同上，主题需填写 "批量搬运"
 
 
 
